@@ -3,5 +3,6 @@ extra information on recursive files...
 tes
 balh
 blet
+net extra lines to checkstaging
 
 

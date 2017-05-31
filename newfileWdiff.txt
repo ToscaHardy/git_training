@@ -1,0 +1,13 @@
+diff --git a/mars.txt b/mars.txt
+index 323c864..f1b29a1 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -1,2 +1,7 @@
+-$Cold and dry but everything is my favourite colour
++Cold and dry but everything is my favourite colour
++extra information on recursive files...
++tes
++balh
++blet
++
+ 
